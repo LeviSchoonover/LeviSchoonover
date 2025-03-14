@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeviSchoonover
-- 👀 I’m interested in computers, cybersecurity, programming, music, and AI.
+- 👀 I’m interested in computers, cybersecurity, programming, drones
 - 🚩 Recently completed the GFACT cybersecurity certification (GIAC Foundational Cybersecurity Technologies)
 - 📫 Email me at levistarguy@gmail.com.
 
